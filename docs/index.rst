@@ -39,7 +39,7 @@ Both types of updates can be valuable, but they should not be treated as identic
 Checking the Exact Rand McNally GPS Model
 -----------------------------------------
 
-Before attempting any software update, identify the exact Rand McNally GPS model. Navigation devices can differ in hardware, software versions, storage capacity, and update requirements.
+Before attempting any software update, identify the exact `Rand McNally GPS software update <https://randmcnallyupdate.inblog.io/how-to-update-rand-mcnally-software/>`_ model. Navigation devices can differ in hardware, software versions, storage capacity, and update requirements.
 
 The model information may be available in the device settings, product documentation, packaging, or identification information associated with the unit.
 
@@ -163,7 +163,7 @@ Drivers should continue to follow posted signs, local traffic regulations, and c
 Final Thoughts
 ==============
 
-A Rand McNally GPS software update can be an important part of maintaining a compatible navigation device. Updated system software may improve stability, address known issues, enhance compatibility, and support the continued operation of navigation features.
+A `Rand McNally GPS map update <https://randmcnallyupdates-randmcnallysoftwareupdates.readthedocs-hosted.com/>`_ can be an important part of maintaining a compatible navigation device. Updated system software may improve stability, address known issues, enhance compatibility, and support the continued operation of navigation features.
 
 Before beginning an update, identify the exact GPS model and confirm that the selected software is compatible. Make sure the device has adequate power, maintain a reliable connection, and avoid interrupting the installation process.
 
